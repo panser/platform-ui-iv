@@ -23,7 +23,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>platform-ui</artifactId>
-        <groupId>org.exoplatform.platform-ui</groupId>
+        <groupId>ua.com.iv.platform-ui</groupId>
         <version>4.3.x-SNAPSHOT</version>
     </parent>
 

@@ -27,9 +27,9 @@
     <version>15</version>
     <relativePath />
   </parent>
-  <groupId>org.exoplatform.platform-ui</groupId>
+  <groupId>ua.com.iv.platform-ui</groupId>
   <artifactId>platform-ui</artifactId>
-  <version>4.3.x-SNAPSHOT</version>
+  <version>1.0.x-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Platform-UI</name>
   <modules>
@@ -44,7 +44,7 @@
     <url>https://github.com/exoplatform/platform-ui</url>
   </scm>
   <properties>
-    <platform-ui-skin-final-name>eXoSkin</platform-ui-skin-final-name>
+    <platform-ui-skin-final-name>eXoSkinIv</platform-ui-skin-final-name>
     <!-- **************************************** -->
     <!-- Jira Settings                            -->
     <!-- **************************************** -->
